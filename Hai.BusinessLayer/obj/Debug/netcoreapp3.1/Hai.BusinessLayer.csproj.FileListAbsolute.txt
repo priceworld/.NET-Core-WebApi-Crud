@@ -1,0 +1,15 @@
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.deps.json
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.AssemblyInfo.cs
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CopyComplete
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb

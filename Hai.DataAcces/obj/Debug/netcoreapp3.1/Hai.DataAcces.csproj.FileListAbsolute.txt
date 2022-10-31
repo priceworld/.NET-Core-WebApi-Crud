@@ -1,0 +1,16 @@
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.deps.json
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.runtimeconfig.json
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.runtimeconfig.dev.json
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.AssemblyReference.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.AssemblyInfoInputs.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.AssemblyInfo.cs
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.CopyComplete
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.deps.json
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.AssemblyReference.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.AssemblyInfoInputs.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.AssemblyInfo.cs
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.CoreCompileInputs.cache
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Users\macta\Desktop\Hai\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hai.DataAcces\Hai.DataAcces.csproj" />
+    <ProjectReference Include="..\Hai.Entities\Hai.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
