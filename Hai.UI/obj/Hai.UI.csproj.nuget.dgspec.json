@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.UI\\Hai.UI.csproj": {}
+    "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.UI\\Hai.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj": {
+    "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj",
         "projectName": "Hai.BusinessLayer",
-        "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj",
+        "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj": {
-                "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj"
+              "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj": {
+                "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj"
               },
-              "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
-                "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj"
+              "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+                "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj": {
+    "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
         "projectName": "Hai.DataAcces",
-        "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
+        "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
         "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
-                "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj"
+              "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+                "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj"
               }
             }
           }
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+    "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
         "projectName": "Hai.Entities",
-        "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+        "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
         "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -193,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.UI\\Hai.UI.csproj": {
+    "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.UI\\Hai.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.UI\\Hai.UI.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.UI\\Hai.UI.csproj",
         "projectName": "Hai.UI",
-        "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.UI\\Hai.UI.csproj",
+        "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.UI\\Hai.UI.csproj",
         "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.UI\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -217,14 +217,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj"
+              "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj": {
+                "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj"
               },
-              "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj": {
-                "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj"
+              "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj": {
+                "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj"
               },
-              "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
-                "projectPath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.Entities\\Hai.Entities.csproj"
+              "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+                "projectPath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj"
               }
             }
           }

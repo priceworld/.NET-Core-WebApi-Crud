@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRGcGstEHkH020N0WStLosyhcJVmTrnkYMCJpAdN/TmvdpSd7kj+48dZwQb++MAH5CH/MuZ+Xv5Nf7vY3Les4A==",
+  "dgSpecHash": "Ah5J++zDA5s8obgOTPI70aK1gkrup4BSPWWXjhDFdgnQGPAS7PEgdHN453mge05bmSFhpEBUFaX89w2gEVjqTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\macta\\Desktop\\Hai\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj",
+  "projectFilePath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.BusinessLayer\\Hai.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

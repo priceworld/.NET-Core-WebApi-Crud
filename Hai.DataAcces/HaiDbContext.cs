@@ -1,4 +1,5 @@
-﻿using Hai.Entities.Entities;
+﻿using Hai.Entities;
+using Hai.Entities.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -16,5 +17,6 @@ namespace Hai.DataAcces
         public DbSet<GoodsIN> GoodsIN { get; set; }
         public DbSet<GoodsINDetail> GoodsINDetail { get; set; }
         public DbSet<GoodsOut> GoodsOut { get; set; }
+        public DbSet<GoodsINDetailProduct> GIDProduct { get; set; }
     }
 }

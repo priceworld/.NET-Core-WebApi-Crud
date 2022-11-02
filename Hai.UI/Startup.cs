@@ -27,7 +27,7 @@ namespace Hai.UI
             services.AddSwaggerDocument(config => {
                 config.PostProcess = (doc =>
                 {
-                    doc.Info.Title = "GoodsIn API";
+                    doc.Info.Title = "Hai API";
                     doc.Info.Version = "1.0";
                 });
             });
