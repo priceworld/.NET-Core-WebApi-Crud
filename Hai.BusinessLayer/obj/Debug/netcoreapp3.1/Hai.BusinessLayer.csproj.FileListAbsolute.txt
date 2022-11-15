@@ -28,3 +28,33 @@ C:\Masaüstü\Hai\hai git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.Busi
 C:\Masaüstü\Hai\hai git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CopyComplete
 C:\Masaüstü\Hai\hai git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
 C:\Masaüstü\Hai\hai git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.deps.json
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.AssemblyReference.cache
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.AssemblyInfoInputs.cache
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.AssemblyInfo.cs
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CopyComplete
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
+C:\Masaüstü\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.deps.json
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.AssemblyReference.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.AssemblyInfoInputs.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.AssemblyInfo.cs
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.csproj.CopyComplete
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.BusinessLayer\obj\Debug\netcoreapp3.1\Hai.BusinessLayer.pdb

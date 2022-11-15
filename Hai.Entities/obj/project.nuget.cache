@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "6ZJFa2n0KHHnUnfqddXachtenGOrsofj8CDWADFpdjKoYMHWF7qVh31+fPvGZG+c7IwlxLAOtu6iJu42dN0Ywg==",
+  "dgSpecHash": "cNz3G7vSiDeCbbXy5Evfi3G6TkaCtthIhFUjGgQD/MKLM6lxRQsv79ufRmM4t9faHB0MfE1g+MQIQFA0Cbig/g==",
   "success": true,
-  "projectFilePath": "C:\\Masaüstü\\Hai\\hai git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\macta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\macta\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\macta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\macta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\macta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

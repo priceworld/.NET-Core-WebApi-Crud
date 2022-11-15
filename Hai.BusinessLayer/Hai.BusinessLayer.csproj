@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Hai.DataAcces\Hai.DataAcces.csproj" />
     <ProjectReference Include="..\Hai.Entities\Hai.Entities.csproj" />
   </ItemGroup>

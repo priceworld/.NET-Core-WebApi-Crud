@@ -18,3 +18,23 @@ C:\Masaüstü\Hai\hai git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.
 C:\Masaüstü\Hai\hai git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.CoreCompileInputs.cache
 C:\Masaüstü\Hai\hai git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.dll
 C:\Masaüstü\Hai\hai git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.deps.json
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.AssemblyReference.cache
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.AssemblyInfoInputs.cache
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.AssemblyInfo.cs
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.deps.json
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.AssemblyReference.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.AssemblyInfoInputs.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.AssemblyInfo.cs
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.csproj.CoreCompileInputs.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.Entities\obj\Debug\netcoreapp3.1\Hai.Entities.pdb

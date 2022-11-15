@@ -30,3 +30,35 @@ C:\Masaüstü\Hai\hai git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcce
 C:\Masaüstü\Hai\hai git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.dll
 C:\Masaüstü\Hai\hai git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.pdb
 C:\Masaüstü\Hai\hai git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.genruntimeconfig.cache
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.deps.json
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.runtimeconfig.json
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.runtimeconfig.dev.json
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.AssemblyReference.cache
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.AssemblyInfoInputs.cache
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.AssemblyInfo.cs
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.CopyComplete
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Masaüstü\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.genruntimeconfig.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.deps.json
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.runtimeconfig.json
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.runtimeconfig.dev.json
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.Entities.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\bin\Debug\netcoreapp3.1\Hai.Entities.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.AssemblyReference.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.AssemblyInfoInputs.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.AssemblyInfo.cs
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.CoreCompileInputs.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.csproj.CopyComplete
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.pdb
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.DataAcces\obj\Debug\netcoreapp3.1\Hai.DataAcces.genruntimeconfig.cache
