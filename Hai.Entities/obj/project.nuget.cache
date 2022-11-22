@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNz3G7vSiDeCbbXy5Evfi3G6TkaCtthIhFUjGgQD/MKLM6lxRQsv79ufRmM4t9faHB0MfE1g+MQIQFA0Cbig/g==",
+  "dgSpecHash": "cS3JPjAJw4slVc+lXpgfeM86egJzalvGTN2VQrKbXZQtBfsb/SZooug0SJtCMdXEB0aSQq7WkzKsrCKQLUq40g==",
   "success": true,
-  "projectFilePath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+  "projectFilePath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

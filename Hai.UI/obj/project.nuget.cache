@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7JuVQETCs3+BDCJUBkXJ15qjZ5i3pe53KKvpoiZ5KRENHEU3oCxqlIfzmdWmHN8UpVwNPPYpRpJAhxoQ7dPvjw==",
+  "dgSpecHash": "4uNv109l2TFyXg9//hBAuBnG0mgCwwVz6lovRDovLmW5aPgnovDSkPwMK+YuNQIKrKxu/dWrhPScSnSuCvjQIQ==",
   "success": true,
-  "projectFilePath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.UI\\Hai.UI.csproj",
+  "projectFilePath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.UI\\Hai.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
