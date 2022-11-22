@@ -18,6 +18,6 @@ namespace Hai.DataAcces
         public DbSet<GoodsINDetail> GoodsINDetail { get; set; }
         public DbSet<GoodsOut> GoodsOut { get; set; }
         public DbSet<GoodsINDetailProduct> GIDProduct { get; set; }
-        public DbSet<Users> Users { get; set; }
+        public DbSet<UserDto> Users { get; set; }
     }
 }

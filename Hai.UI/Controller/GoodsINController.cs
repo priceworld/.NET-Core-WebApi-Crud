@@ -25,6 +25,7 @@ namespace Hai.UI.Controller
         /// </summary>
         /// <returns></returns>
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Get()
         {
             var goods = await _goodsService.GetAllGI();

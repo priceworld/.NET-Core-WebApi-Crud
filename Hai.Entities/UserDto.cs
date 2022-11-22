@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Hai.Entities
 {
-    public class Users
+    public class UserDto
     {
         public int UserId { get; set; }
         public int? UserTypeId { get; set; }

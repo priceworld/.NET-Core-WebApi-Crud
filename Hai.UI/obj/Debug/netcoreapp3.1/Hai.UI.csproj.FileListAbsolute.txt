@@ -302,3 +302,9 @@ C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.RazorTarget
 C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.Views.pdb
 C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.csproj.CopyComplete
 C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.genruntimeconfig.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
