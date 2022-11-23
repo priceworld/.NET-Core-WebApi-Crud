@@ -1,4 +1,6 @@
-﻿using Hai.Entities;
+﻿using Hai.BusinessLayer.Abstract;
+using Hai.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -19,10 +21,27 @@ namespace Hai.UI.Controller
     {
         public static User user = new User();
         private readonly IConfiguration _configuration;
-        public AuthController(IConfiguration configuration)
+        private readonly IUserService _userService;
+
+        public AuthController(IConfiguration configuration, IUserService userService)
         {
             _configuration = configuration;
+            _userService = userService;
         }
+
+        [HttpGet,Authorize]
+        public ActionResult<string> GetMe()
+        {
+            var userName = _userService.GetName();
+            var role = _userService.GetRole();
+            return Ok(new {userName, role});
+
+            //var userName = User?.Identity?.Name;
+            //var userName2 = User.FindFirstValue(ClaimTypes.Name);
+            //var role = User.FindFirstValue(ClaimTypes.Role);
+            //return Ok(new {userName, userName2, role});
+        }
+
         [HttpPost("Register")]
         public async Task<ActionResult<User>> Register(UserDto request)
         {
@@ -54,7 +73,7 @@ namespace Hai.UI.Controller
             List<Claim> claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, user.UserName),
-                //new Claim(ClaimTypes.Role, "Admin")
+                new Claim(ClaimTypes.Role, "1")
             };
 
             var key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(

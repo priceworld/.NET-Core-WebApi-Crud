@@ -13,7 +13,7 @@ namespace Hai.UI.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [Authorize(Roles ="1")]
     public class GoodsINController : ControllerBase
     {
         private IGoodsINService _goodsService;

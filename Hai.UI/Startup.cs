@@ -1,3 +1,5 @@
+using Hai.BusinessLayer.Abstract;
+using Hai.BusinessLayer.Concrete;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,6 +30,8 @@ namespace Hai.UI
         {
             services.AddRazorPages();
             services.AddControllers();
+            services.AddScoped<IUserService, UserService>();
+            services.AddHttpContextAccessor();
             services.AddSwaggerGen(options =>
             {
                 options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme

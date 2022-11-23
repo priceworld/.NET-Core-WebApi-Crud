@@ -3,6 +3,7 @@ using Hai.BusinessLayer.Concrete;
 using Hai.DataAcces.Abstract;
 using Hai.DataAcces.Concrete;
 using Hai.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -14,6 +15,7 @@ namespace Hai.UI.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class GoodsINDetailProductController : ControllerBase
     {
         private IGoodsINDetailProductService _goodsINDetailProductService;
