@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj": {}
+    "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+    "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
         "projectName": "Hai.Entities",
-        "projectPath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+        "projectPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
         "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\obj\\",
+        "outputPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",

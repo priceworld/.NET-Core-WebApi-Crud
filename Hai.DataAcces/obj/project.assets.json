@@ -5421,11 +5421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
+      "projectUniqueName": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
       "projectName": "Hai.DataAcces",
-      "projectPath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
+      "projectPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
       "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-      "outputPath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.DataAcces\\obj\\",
+      "outputPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.DataAcces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5442,8 +5442,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
-              "projectPath": "C:\\Masaüstü\\REPO\\Hai\\gitt\\Hai\\Hai.Entities\\Hai.Entities.csproj"
+            "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+              "projectPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj"
             }
           }
         }

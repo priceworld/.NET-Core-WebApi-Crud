@@ -1,12 +1,16 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Swashbuckle.AspNetCore.Filters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace Hai.UI
@@ -24,31 +28,29 @@ namespace Hai.UI
         {
             services.AddRazorPages();
             services.AddControllers();
-            services.AddSwaggerGen(c =>
+            services.AddSwaggerGen(options =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Hai Swagger", Version = "v1" });
-                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
                 {
+                    Description = "Standard Authorization header using the Bearer scheme (\"bearer {token}\")",
                     In = ParameterLocation.Header,
-                    Description = "Please insert Token",
                     Name = "Authorization",
-                    Type = SecuritySchemeType.Http,
-                    BearerFormat = "JWT",
-                    Scheme = "bearer"
+                    Type = SecuritySchemeType.ApiKey
                 });
-                c.AddSecurityRequirement(new OpenApiSecurityRequirement {
-                    {
-                        new OpenApiSecurityScheme
-                        {
-                            Reference=new OpenApiReference
-                            {
-                                Type=ReferenceType.SecurityScheme,
-                                Id="Bearer"
-                            }
-                        },
-                        new string[] {}
-                    }
-                });
+
+                options.OperationFilter<SecurityRequirementsOperationFilter>();
+            });
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            .AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8
+                        .GetBytes(Configuration.GetSection("AppSettings:Token").Value)),
+                    ValidateIssuer = false,
+                    ValidateAudience = false
+                };
             });
         }
 
@@ -66,7 +68,8 @@ namespace Hai.UI
             }
 
             app.UseSwagger();
-            app.UseSwaggerUI(c=> {
+            app.UseSwaggerUI(c =>
+            {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "HAI");
             });
             app.UseHttpsRedirection();

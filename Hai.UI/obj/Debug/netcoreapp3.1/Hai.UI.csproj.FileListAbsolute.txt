@@ -386,3 +386,11 @@ C:\Masaüstü\REPO\Hai\gitt\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.csproj.Cop
 C:\Masaüstü\REPO\Hai\gitt\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.dll
 C:\Masaüstü\REPO\Hai\gitt\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.pdb
 C:\Masaüstü\REPO\Hai\gitt\Hai\Hai.UI\obj\Debug\netcoreapp3.1\Hai.UI.genruntimeconfig.cache
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Masaüstü\REPO\Hai\git\Hai\Hai.UI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll

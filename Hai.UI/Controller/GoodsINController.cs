@@ -13,6 +13,7 @@ namespace Hai.UI.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class GoodsINController : ControllerBase
     {
         private IGoodsINService _goodsService;
@@ -25,7 +26,6 @@ namespace Hai.UI.Controller
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        [Authorize]
         public async Task<IActionResult> Get()
         {
             var goods = await _goodsService.GetAllGI();
