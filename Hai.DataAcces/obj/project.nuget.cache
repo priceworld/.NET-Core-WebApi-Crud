@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6JT6x5aOojp9syb6OSBmwZASAuX7phXNpKQ8lAJSHh3/0pjnV/Hnn7b+Yn7nP91DZqd5xPpS+mj7gGvoUPoDwA==",
+  "dgSpecHash": "4WB0GVZCaFzLE6LHc37ttOwoGNV5msKV56jnkyJy/8+8TQnXWKLU2ldZ1ihsDC2u7MQ3cG5fLcz/VSnqHveAYw==",
   "success": true,
-  "projectFilePath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.DataAcces\\Hai.DataAcces.csproj",
+  "projectFilePath": "C:\\Users\\macta\\Desktop\\core\\.NET-Core-WebApi-Crud\\Hai.DataAcces\\Hai.DataAcces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\macta\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

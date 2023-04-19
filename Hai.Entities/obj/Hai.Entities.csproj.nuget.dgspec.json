@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {}
+    "C:\\Users\\macta\\Desktop\\core\\.NET-Core-WebApi-Crud\\Hai.Entities\\Hai.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj": {
+    "C:\\Users\\macta\\Desktop\\core\\.NET-Core-WebApi-Crud\\Hai.Entities\\Hai.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\macta\\Desktop\\core\\.NET-Core-WebApi-Crud\\Hai.Entities\\Hai.Entities.csproj",
         "projectName": "Hai.Entities",
-        "projectPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\Hai.Entities.csproj",
+        "projectPath": "C:\\Users\\macta\\Desktop\\core\\.NET-Core-WebApi-Crud\\Hai.Entities\\Hai.Entities.csproj",
         "packagesPath": "C:\\Users\\macta\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\REPO\\Hai\\git\\Hai\\Hai.Entities\\obj\\",
+        "outputPath": "C:\\Users\\macta\\Desktop\\core\\.NET-Core-WebApi-Crud\\Hai.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\macta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -51,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
